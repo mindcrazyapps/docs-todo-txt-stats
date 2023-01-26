@@ -1,5 +1,5 @@
 # docs-todo-txt-stats
-docs for todo-txt-stats
+Documentation for todo-txt-stats
 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/123137817/214757389-96d0003a-59cd-4100-822e-0ea2fe21547f.png)
