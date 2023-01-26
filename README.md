@@ -1,4 +1,8 @@
-# docs-todo-txt-stats
+<p align="center">
+ <img src="https://cdn-icons-png.flaticon.com/512/423/423786.png" alt="image" width="70px">
+</p>
+
+## docs-todo-txt-stats
 Documentation for todo-txt-stats
 
 ## Screenshot
